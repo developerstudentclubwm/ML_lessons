@@ -6,6 +6,25 @@ This is the page for all collected resources in DSC at W&M's Fall 2021 workshop 
 
 # Workshops
 
+## Workshop 1: [Models and Applications](https://gdsc.community.dev/events/details/developer-student-clubs-william-mary-presents-demystifying-machine-learning-models-and-applications/)
+### Date: October 28, 2021
+### Educators: Emilio Luz-Ricca & Archana Radhakrishnan
+"Machine learning" and "artificial intelligence" are two of the buzz-iest buzzwords of our time. But what does it really mean for a machine to "learn"? In this workshop, we will break down these concepts into more approachable components. Attendees will learn how to frame a machine learning problem in terms of inputs and outputs, seeing how machine learning tasks boil down to well-defined optimization problems. During the interactive coding portion of the workshop, we will focus in on a few intuitive algorithms and think about how the general problem of connecting inputs to outputs is solved by these particular models.
+
+--------
+
+## Workshop 2: [Computer Vision](https://gdsc.community.dev/events/details/developer-student-clubs-william-mary-presents-demystifying-machine-learning-computer-vision/)
+### Date: November 18, 2021
+### Educators: Paul Scemama & Emilio Luz-Ricca
+Computer vision, the study of machine learning with images and videos as inputs, is one of the most active subtasks in the field of artificial intelligence. In this workshop, we will inspect popular approaches within computer vision, many of which rely on neural networks. During the interactive coding portion, we will work to gain an intuition for image classification and attack an applied computer vision problem.
+
+--------
+
+## Workshop 3: [Ethical Artificial Intelligence](https://gdsc.community.dev/events/details/developer-student-clubs-william-mary-presents-demystifying-machine-learning-ethical-artificial-intelligence/)
+### Date: December 2, 2021
+### Educators: Alex Cooper & Maxwell Fonss
+While artificial intelligence approaches and applications are often very effective, they are not without their own drawbacks. Central to the field of ethical artificial intelligence are questions of privacy, bias, and discrimination. Attendees at this workshop will learn how deployed AI algorithms can fail when they are misunderstood or inappropriately applied. In particular, we will see how unrepresentative datasets can lead to algorithms that display high error rates for the least represented components of the data. Then, we will work to improve these models and discuss how we can work towards a general solution for more ethical AI approaches.
+
 # Cheat sheets
 
 - [Choosing the right model based on data constraints](https://scikit-learn.org/stable/_static/ml_map.png) (source: the `sklearn` library)
