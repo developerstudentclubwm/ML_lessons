@@ -19,6 +19,7 @@ This is the page for all collected resources in DSC at W&M's Fall 2021 workshop 
 - **R**:
   - [`Tidymodels`](https://www.tidymodels.org/): one of the premier packages for machine learning in R--notably, this integrates very with other "tidy" packages such as those from the [Tidyverse](https://www.tidyverse.org/)
 - **Learning about machine learning:**
-  -  [Free deep learning textbook](https://www.deeplearningbook.org/): a very thorough exploration of deep learning and neural networks, all the way from basics to cutting edge research
-  -  [Free reinforcement learning textbook](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf): a preprint textbook (mostly complete) that inlcudes a full development on reinforcement learning (basics to the cuttting edge)
-  -  [Free math textbook](https://mml-book.github.io/book/mml-book.pdf): all of the math concepts that you need to know to be prepared to engage with the more theoretical aspects of machine learning
+  -  [_Deep Learning_](https://www.deeplearningbook.org/) (FREE textbook): a very thorough exploration of deep learning and neural networks, all the way from basics to cutting edge research
+  -  [_Reinforcement Learning: An Introduction_](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf) (FREE textbook): a preprint textbook (mostly complete) that includes a full development on reinforcement learning--the basics to the cutting edge
+  -  [_Mathematics for Machine Learning_](https://mml-book.github.io/book/mml-book.pdf) (FREE textbook): all of the math concepts that you need to know to be prepared to engage with the more theoretical aspects of machine learning
+  -  [Machine Learning Mastery](https://machinelearningmastery.com/): a site with very approachable machine learning tutorials, including code in popular machine learning and deep learning frameworks (`sklearn`, `keras`, etc.)
