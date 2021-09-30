@@ -33,7 +33,7 @@ While artificial intelligence approaches and applications are often very effecti
 
 - **Python:**
   -  [`scikit-learn`](https://scikit-learn.org/stable/): for general machine learning methods and convenience methods for metrics, preprocessing data, model selection, and more!
-  -  [`Tensorflow`](https://www.tensorflow.org/?version=nightly): a lower-level interface for neaural networks and deep learning
+  -  [`Tensorflow`](https://www.tensorflow.org/?version=nightly): a lower-level interface for neural networks and deep learning
   -  [`Keras`](https://keras.io/): a simple python interface for designing, training, and evaluating neural networks
   -  [`PyTorch`](https://pytorch.org/): a more involved framework for working with neural networks--particulrly suitable for research
 - **R**:
