@@ -8,8 +8,10 @@ This is the page for all collected resources in DSC at W&M's Fall 2021 workshop 
 
 ## Workshop 1: [Models and Applications](https://gdsc.community.dev/events/details/developer-student-clubs-william-mary-presents-demystifying-machine-learning-models-and-applications/)
 ### Date: October 28, 2021
-### Educators: Emilio Luz-Ricca & Archana Radhakrishnan
+### Educators: Emilio Luz-Ricca
 "Machine learning" and "artificial intelligence" are two of the buzz-iest buzzwords of our time. But what does it really mean for a machine to "learn"? In this workshop, we will break down these concepts into more approachable components. Attendees will learn how to frame a machine learning problem in terms of inputs and outputs, seeing how machine learning tasks boil down to well-defined optimization problems. During the interactive coding portion of the workshop, we will focus in on a few intuitive algorithms and think about how the general problem of connecting inputs to outputs is solved by these particular models.
+
+You can follow along on Kaggle with either the [attendee version](https://www.kaggle.com/clareheinbaugh/ml-models-and-applications-student) (not filled in) or the [instructor copy](https://www.kaggle.com/clareheinbaugh/ml-models-and-applications-instructor) (completely filled in).
 
 --------
 
