@@ -32,6 +32,7 @@ While artificial intelligence approaches and applications are often very effecti
 # Cheat sheets
 
 - [Choosing the right model based on data constraints](https://scikit-learn.org/stable/_static/ml_map.png) (source: the `sklearn` library)
+- A general overview of concepts in theory on [machine learning](https://stanford.edu/~shervine/teaching/cs-229/), [deep learning](https://stanford.edu/~shervine/teaching/cs-230/), and [artificial intelligence](https://stanford.edu/~shervine/teaching/cs-221/)--these are all great but do include quite a bit of math!
 
 # General Resources
 
