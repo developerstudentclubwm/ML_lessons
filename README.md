@@ -19,8 +19,10 @@ You can follow along on Kaggle with either the [attendee version](https://www.ka
 
 ## Workshop 2: [Computer Vision](https://gdsc.community.dev/events/details/developer-student-clubs-william-mary-presents-demystifying-machine-learning-computer-vision/)
 ### Date: November 18, 2021
-### Educators: Paul Scemama & Emilio Luz-Ricca
+### Educators: Paul Scemama
 Computer vision, the study of machine learning with images and videos as inputs, is one of the most active subtasks in the field of artificial intelligence. In this workshop, we will inspect popular approaches within computer vision, many of which rely on neural networks. During the interactive coding portion, we will work to gain an intuition for image classification and attack an applied computer vision problem.
+
+_The lesson slides and links to the code are coming soon!_
 
 --------
 
@@ -37,12 +39,12 @@ While artificial intelligence approaches and applications are often very effecti
 # General Resources
 
 - **Python:**
-  -  [`scikit-learn`](https://scikit-learn.org/stable/): for general machine learning methods and convenience methods for metrics, preprocessing data, model selection, and more!
-  -  [`Tensorflow`](https://www.tensorflow.org/?version=nightly): a lower-level interface for neural networks and deep learning
-  -  [`Keras`](https://keras.io/): a simple python interface for designing, training, and evaluating neural networks
-  -  [`PyTorch`](https://pytorch.org/): a more involved framework for working with neural networks--particulrly suitable for research
+  -  [scikit-learn](https://scikit-learn.org/stable/): for general machine learning methods and convenience methods for metrics, preprocessing data, model selection, and more!
+  -  [Tensorflow](https://www.tensorflow.org/?version=nightly): a lower-level interface for neural networks and deep learning
+  -  [Keras](https://keras.io/): a simple python interface for designing, training, and evaluating neural networks
+  -  [PyTorch](https://pytorch.org/): a more involved framework for working with neural networks--particulrly suitable for research
 - **R**:
-  - [`Tidymodels`](https://www.tidymodels.org/): one of the premier packages for machine learning in R--notably, this integrates very with other "tidy" packages such as those from the [Tidyverse](https://www.tidyverse.org/)
+  - [Tidymodels](https://www.tidymodels.org/): one of the premier packages for machine learning in R--notably, this integrates very with other "tidy" packages such as those from the [Tidyverse](https://www.tidyverse.org/)
 - **Learning about machine learning:**
   -  [_Deep Learning_](https://www.deeplearningbook.org/) (FREE textbook): a very thorough exploration of deep learning and neural networks, all the way from basics to cutting edge research
   -  [_Reinforcement Learning: An Introduction_](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf) (FREE textbook): a preprint textbook (mostly complete) that includes a full development on reinforcement learning--the basics to the cutting edge
