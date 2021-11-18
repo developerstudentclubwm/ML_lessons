@@ -22,7 +22,7 @@ You can follow along on Kaggle with either the [attendee version](https://www.ka
 ### Educators: Paul Scemama
 Computer vision, the study of machine learning with images and videos as inputs, is one of the most active subtasks in the field of artificial intelligence. In this workshop, we will inspect popular approaches within computer vision, many of which rely on neural networks. During the interactive coding portion, we will work to gain an intuition for image classification and attack an applied computer vision problem.
 
-_The lesson slides are coming soon!_
+[Click here](computer_vision/computer_vision_presentation.pdf) to download the slides used in the lesson!
 
 You can follow along on Kaggle with either the [attendee version](https://www.kaggle.com/clareheinbaugh/ml-computer-vision-student) (not filled in) or the [instructor copy](https://www.kaggle.com/clareheinbaugh/ml-computer-vision-instructor) (completely filled in).
 
