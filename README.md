@@ -35,6 +35,8 @@ While artificial intelligence approaches and applications are often very effecti
 
 [Click here](ethical_AI/ethical_AI_presentation.pdf) to download the slides used in the lesson!
 
+You can follow along on Kaggle with either the [attendee version](https://www.kaggle.com/clareheinbaugh/ml-ethical-ai-student) (not filled in) or the [instructor copy](https://www.kaggle.com/clareheinbaugh/ml-ethical-ai-instructor) (completely filled in).
+
 # Cheat sheets
 
 - [Choosing the right model based on data constraints](https://scikit-learn.org/stable/_static/ml_map.png) (source: the `sklearn` library)
