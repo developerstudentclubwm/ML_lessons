@@ -30,8 +30,10 @@ You can follow along on Kaggle with either the [attendee version](https://www.ka
 
 ## Workshop 3: [Ethical Artificial Intelligence](https://gdsc.community.dev/events/details/developer-student-clubs-william-mary-presents-demystifying-machine-learning-ethical-artificial-intelligence/)
 ### Date: December 2, 2021
-### Educators: Alex Cooper & Maxwell Fonss
+### Educators: Clare Heinbaugh & Charlie Dobson & Emilio Luz-Ricca
 While artificial intelligence approaches and applications are often very effective, they are not without their own drawbacks. Central to the field of ethical artificial intelligence are questions of privacy, bias, and discrimination. Attendees at this workshop will learn how deployed AI algorithms can fail when they are misunderstood or inappropriately applied. In particular, we will see how unrepresentative datasets can lead to algorithms that display high error rates for the least represented components of the data. Then, we will work to improve these models and discuss how we can work towards a general solution for more ethical AI approaches.
+
+[Click here](ethical_AI/ethical_AI_presentation.pdf) to download the slides used in the lesson!
 
 # Cheat sheets
 
